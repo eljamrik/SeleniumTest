@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<TestReport browser="Chrome">
+
+<TestCase>
+<Name>test_01_Verify_Access_To_Statistics_BF</Name>
+<Description>StatistiqueTest : test_01_Verify_Access_To_Statistics_BF</Description>
+<Status>Success</Status>
+<ExecutionTime>19-05-2017_13:47:15</ExecutionTime>
+</TestCase>
+
+<TestCase>
+<Name>test_02_Verify_Access_to_Statistics_In_Mode_Multi_BF</Name>
+<Description>StatistiqueTest : test_02_Verify_Access_to_Statistics_In_Mode_Multi_BF</Description>
+<Status>Success</Status>
+<ExecutionTime>19-05-2017_13:47:58</ExecutionTime>
+</TestCase>
+
+<TestCase>
+<Name>test_03_Verify_Filter</Name>
+<Description>StatistiqueTest : test_03_Verify_Filter</Description>
+<Status>Failed</Status>
+<ExecutionTime>19-05-2017_13:48:39</ExecutionTime>
+</TestCase>
+</TestReport>
